@@ -6,7 +6,7 @@ Limit: 1 to 30 characters. No trailing newline is written.
 
 import os
 
-ENTRY = "Overdrive"
+ENTRY = "Gasoline"
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

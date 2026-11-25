@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Your Human in One Word](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c).
 
-> Overdrive
+> Gasoline
 
 ## Run
 
